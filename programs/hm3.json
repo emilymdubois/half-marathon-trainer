@@ -1,0 +1,110 @@
+{
+  "1": {
+    "Monday": "Rest",
+    "Tuesday": "4 mile run",
+    "Wednesday": "30 minutes cross training",
+    "Thursday": "3 mile run",
+    "Friday": "Rest",
+    "Saturday": "6 mile run",
+    "Sunday": "30 minutes cross training"
+  },
+  "2": {
+    "Monday": "Rest",
+    "Tuesday": "4 mile run",
+    "Wednesday": "35 minutes cross training",
+    "Thursday": "30 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "6 mile run",
+    "Sunday": "35 minutes cross training"
+  },
+  "3": {
+    "Monday": "Rest",
+    "Tuesday": "5 mile run",
+    "Wednesday": "40 minutes cross training",
+    "Thursday": "3 mile run at race pace",
+    "Friday": "Rest",
+    "Saturday": "7 mile run",
+    "Sunday": "40 minutes cross training"
+  },
+  "4": {
+    "Monday": "Rest",
+    "Tuesday": "5 mile run",
+    "Wednesday": "45 minutes cross training",
+    "Thursday": "4 mile run",
+    "Friday": "Rest",
+    "Saturday": "7 mile run",
+    "Sunday": "45 minutes cross training"
+  },
+  "5": {
+    "Monday": "Rest",
+    "Tuesday": "4 mile run",
+    "Wednesday": "50 minutes cross training",
+    "Thursday": "40 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "8 mile run",
+    "Sunday": "50 minutes cross training"
+  },
+  "6": {
+    "Monday": "Rest",
+    "Tuesday": "4 mile run",
+    "Wednesday": "30 minutes cross training",
+    "Thursday": "3 mile run at race pace",
+    "Friday": "Rest or easy run",
+    "Saturday": "Rest",
+    "Sunday": "5K race"
+  },
+  "7": {
+    "Monday": "Rest",
+    "Tuesday": "6 mile run",
+    "Wednesday": "50 minutes cross training",
+    "Thursday": "5 mile run",
+    "Friday": "Rest",
+    "Saturday": "9 mile run",
+    "Sunday": "50 minutes cross training"
+  },
+  "8": {
+    "Monday": "Rest",
+    "Tuesday": "6 mile run",
+    "Wednesday": "50 minutes cross training",
+    "Thursday": "50 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "9 mile run",
+    "Sunday": "50 minutes cross training"
+  },
+  "9": {
+    "Monday": "Rest",
+    "Tuesday": "4 mile run",
+    "Wednesday": "30 minutes cross training",
+    "Thursday": "3 mile run at race pace",
+    "Friday": "Rest or easy run",
+    "Saturday": "Rest",
+    "Sunday": "10K race"
+  },
+  "10": {
+    "Monday": "Rest",
+    "Tuesday": "6 mile run",
+    "Wednesday": "60 minutes cross training",
+    "Thursday": "6 mile run",
+    "Friday": "Rest",
+    "Saturday": "10 mile run",
+    "Sunday": "60 minutes cross training"
+  },
+  "11": {
+    "Monday": "Rest",
+    "Tuesday": "6 mile run",
+    "Wednesday": "60 minutes cross training",
+    "Thursday": "60 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "10 mile run",
+    "Sunday": "60 minutes cross training"
+  },
+  "12": {
+    "Monday": "Rest",
+    "Tuesday": "4 mile run",
+    "Wednesday": "30 minutes cross training",
+    "Thursday": "3 mile run at race pace",
+    "Friday": "Rest",
+    "Saturday": "Rest",
+    "Sunday": "Half marathon"
+  }
+}

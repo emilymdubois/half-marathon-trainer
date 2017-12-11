@@ -1,0 +1,110 @@
+{
+  "1": {
+    "Monday": "3 mile run",
+    "Tuesday": "6 x hill",
+    "Wednesday": "3 mile run",
+    "Thursday": "40 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "3 mile run",
+    "Sunday": "90 minute run (3/1)"
+  },
+  "2": {
+    "Monday": "3 mile run",
+    "Tuesday": "7 x 400 at 5K race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "45 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "3 mile run at race pace",
+    "Sunday": "90 minute run"
+  },
+  "3": {
+    "Monday": "3 mile run",
+    "Tuesday": "7 x hill",
+    "Wednesday": "3 mile run",
+    "Thursday": "30 minute run at tempo",
+    "Friday": "Rest or easy run",
+    "Saturday": "Rest",
+    "Sunday": "5K race"
+  },
+  "4": {
+    "Monday": "3 mile run",
+    "Tuesday": "8 x 400 at 5K race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "40 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "3 mile run",
+    "Sunday": "90 minute run (3/1)"
+  },
+  "5": {
+    "Monday": "3 mile run",
+    "Tuesday": "8 x hill",
+    "Wednesday": "3 mile run",
+    "Thursday": "45 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "3 mile run at race pace",
+    "Sunday": "90 minute run"
+  },
+  "6": {
+    "Monday": "3 mile run",
+    "Tuesday": "8 x 400 at 5K race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "30 minute run at tempo",
+    "Friday": "Rest or easy run",
+    "Saturday": "4 mile run at race pace",
+    "Sunday": "10K race"
+  },
+  "7": {
+    "Monday": "3 mile run",
+    "Tuesday": "4 x 800 at 10K race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "45 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "4 mile run at race pace",
+    "Sunday": "105 minute run (3/1)"
+  },
+  "8": {
+    "Monday": "3 mile run",
+    "Tuesday": "3 x 1600 at race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "50 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "5 mile run at race pace",
+    "Sunday": "105 minute run"
+  },
+  "9": {
+    "Monday": "3 mile run",
+    "Tuesday": "5 x 800 at 10K race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "30 minute run at tempo",
+    "Friday": "Rest or easy run",
+    "Saturday": "Rest",
+    "Sunday": "15K race"
+  },
+  "10": {
+    "Monday": "3 mile run",
+    "Tuesday": "4 x 1600 at race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "55 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "5 mile run at race pace",
+    "Sunday": "120 minute run (3/1)"
+  },
+  "11": {
+    "Monday": "3 mile run",
+    "Tuesday": "6 x 800 at 10K race pace",
+    "Wednesday": "3 mile run",
+    "Thursday": "60 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "3 mile run at race pace",
+    "Sunday": "120 minute run"
+  },
+  "12": {
+    "Monday": "3 mile run",
+    "Tuesday": "6 x 400 at 5K race pace",
+    "Wednesday": "2 mile run",
+    "Thursday": "30 minute run at tempo",
+    "Friday": "Rest",
+    "Saturday": "Rest",
+    "Sunday": "Half marathon"
+  }
+}
