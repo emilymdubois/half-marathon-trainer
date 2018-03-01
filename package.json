@@ -1,0 +1,26 @@
+{
+  "name": "half-marathon-trainer",
+  "version": "1.0.0",
+  "description": "A Slack bot that keeps you on track for your half marathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape *.test.js"
+  },
+  "bin": {
+    "half-marathon-trainer": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilymdubois/half-marathon-trainer.git"
+  },
+  "author": "Emily DuBois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilymdubois/half-marathon-trainer/issues"
+  },
+  "homepage": "https://github.com/emilymdubois/half-marathon-trainer#readme",
+  "dependencies": {
+    "meow": "^4.0.0",
+    "moment": "^2.19.4"
+  }
+}

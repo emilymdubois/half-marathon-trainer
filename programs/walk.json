@@ -1,0 +1,110 @@
+{
+  "1": {
+    "Monday": "Rest",
+    "Tuesday": "30 minutes at easy pace",
+    "Wednesday": "20 minutes at stroll pace",
+    "Thursday": "30 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "30 minutes at stroll pace",
+    "Sunday": "3 miles at easy pace"
+  },
+  "2": {
+    "Monday": "Rest",
+    "Tuesday": "30 minutes at easy pace",
+    "Wednesday": "20 minutes at stroll pace",
+    "Thursday": "30 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "30 minutes at stroll pace",
+    "Sunday": "3 miles at easy pace"
+  },
+  "3": {
+    "Monday": "Rest",
+    "Tuesday": "35 minutes at easy pace",
+    "Wednesday": "20 minutes at stroll pace",
+    "Thursday": "35 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "20 minutes at stroll pace",
+    "Sunday": "3 miles at brisk pace"
+  },
+  "4": {
+    "Monday": "Rest",
+    "Tuesday": "35 minutes at easy pace",
+    "Wednesday": "25 minutes at stroll pace",
+    "Thursday": "35 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "40 minutes at stroll pace",
+    "Sunday": "5 miles at easy pace"
+  },
+  "5": {
+    "Monday": "Rest",
+    "Tuesday": "35 minutes at easy pace",
+    "Wednesday": "25 minutes at stroll pace",
+    "Thursday": "35 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "40 minutes at stroll pace",
+    "Sunday": "6 miles at easy pace"
+  },
+  "6": {
+    "Monday": "Rest",
+    "Tuesday": "40 minutes at easy pace",
+    "Wednesday": "25 minutes at stroll pace",
+    "Thursday": "40 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "30 minutes at stroll pace",
+    "Sunday": "4 miles at brisk pace"
+  },
+  "7": {
+    "Monday": "Rest",
+    "Tuesday": "40 minutes at easy pace",
+    "Wednesday": "25 minutes at stroll pace",
+    "Thursday": "40 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "50 minutes at stroll pace",
+    "Sunday": "7 miles at easy pace"
+  },
+  "8": {
+    "Monday": "Rest",
+    "Tuesday": "40 minutes at easy pace",
+    "Wednesday": "25 minutes at stroll pace",
+    "Thursday": "40 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "50 minutes at stroll pace",
+    "Sunday": "8 miles at easy pace"
+  },
+  "9": {
+    "Monday": "Rest",
+    "Tuesday": "45 minutes at easy pace",
+    "Wednesday": "30 minutes at stroll pace",
+    "Thursday": "45 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "30 minutes at stroll pace",
+    "Sunday": "6 miles at brisk pace"
+  },
+  "10": {
+    "Monday": "Rest",
+    "Tuesday": "45 minutes at easy pace",
+    "Wednesday": "30 minutes at stroll pace",
+    "Thursday": "45 minutes at easy pace",
+    "Friday": "Rest",
+    "Saturday": "60 minutes at stroll pace",
+    "Sunday": "9 miles at easy pace"
+  },
+  "11": {
+    "Monday": "Rest",
+    "Tuesday": "45 minutes at easy pace",
+    "Wednesday": "30 minutes at stroll pace",
+    "Thursday": "45 minutes at easy pace",
+    "Friday": "30 minutes at easy pace",
+    "Saturday": "60 minutes at stroll pace",
+    "Sunday": "10 miles at easy pace"
+  },
+  "12": {
+    "Monday": "Rest",
+    "Tuesday": "30 minutes at easy pace",
+    "Wednesday": "20 minutes at stroll pace",
+    "Thursday": "30 minutes at stroll pace",
+    "Friday": "Rest",
+    "Saturday": "Rest",
+    "Sunday": "Half marathon"
+  }
+}
